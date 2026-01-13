@@ -9,6 +9,7 @@
 This is not meant to be a beginner's guide or a detailed discussion about Objective-C++; it is meant to be a quick reference to common, high level topics covering the hybrid use of Objective-C and C++.
 
 - This document is based on the original [Objective-C CheatSheet](https://github.com/iwasrobbed/Objective-C-CheatSheet).
+- Apple Objective-C Programming Guide [https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html]
 - Objective-C++ allows you to mix C++ code with Objective-C code, enabling you to use C++ classes, templates, and STL within your iOS/macOS projects.
 
 **File Extension**: Objective-C++ files use the `.mm` extension instead of `.m` for implementation files. Header files typically remain `.h` but can also be `.hpp`.
